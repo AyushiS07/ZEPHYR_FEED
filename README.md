@@ -88,4 +88,4 @@ moment.js:   A library for parsing, validating, manipulating, and formatting dat
 
 -Explore Features: Navigate through the home feed, profile, notifications, and other pages.
 
--Create posts, like and comment on posts, follow other users, and update profile settings.
+-Create posts, like, comment on posts, follow other users, and update profile settings.
